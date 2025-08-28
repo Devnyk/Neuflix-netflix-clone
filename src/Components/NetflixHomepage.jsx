@@ -22,7 +22,7 @@ const NetflixHomepage = () => {
 
       {/* Footer Spacing */}
       <div className="h-20 text-gray-600 w-full">
-        <p className='text-center text-sm'>&copy; [<i>Made by Dev Nyk</i>]</p>
+        <p className='text-center text-sm'>&copy; [<i>Made by Dev Nayak</i>]</p>
       </div>
     </div>
   );
