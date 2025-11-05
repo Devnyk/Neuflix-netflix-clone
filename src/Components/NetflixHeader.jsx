@@ -15,8 +15,8 @@ const NetflixHeader = () => {
             <li><a href="#" className="hover:text-gray-300 transition-colors">Home</a></li>
             <li><a href="#" className="hover:text-gray-300 transition-colors">TV Shows</a></li>
             <li><a href="#" className="hover:text-gray-300 transition-colors">Movies</a></li>
-            <li><a href="#" className="hover:text-gray-300 transition-colors">New & Popular</a></li>
-            <li><a href="#" className="hover:text-gray-300 transition-colors">My List</a></li>
+            <li><a href="#" className="hover:text-gray-300 transition-colors">Popular</a></li>
+            <li><a href="#" className="hover:text-gray-300 transition-colors">Lists</a></li>
           </ul>
         </div>
 
